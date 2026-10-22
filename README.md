@@ -93,6 +93,8 @@
   <a href="https://github.com/isabelalonsocasas?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelalonsocasas&amp;bg_color=FFFDF9&amp;title_color=8C7563&amp;text_color=625B52&amp;icon_color=B49B7E&amp;border_color=E7E0D5&amp;hide_border=false&amp;border_radius=6&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;card_width=450&amp;custom_title=Languages%20on%20GitHub" alt="Automatically generated language percentages across my public non-fork repositories" width="48%" align="top" />
   </a>
+
+  <!--
   <a href="https://github.com/isabelalonsocasas?tab=overview">
     <img src="https://github-readme-stats.vercel.app/api?username=isabelalonsocasas&amp;bg_color=FFFDF9&amp;title_color=8C7563&amp;text_color=625B52&amp;icon_color=B49B7E&amp;border_color=E7E0D5&amp;hide_border=false&amp;border_radius=6&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;hide=issues%2Ccontribs&amp;line_height=30&amp;card_width=450&amp;include_all_commits=true&amp;custom_title=My%20GitHub%20activity" alt="Automatically generated statistics from my public GitHub activity" width="48%" align="top" />
   </a>
@@ -107,4 +109,5 @@
     <img src="https://streak-stats.demolab.com/?user=isabelalonsocasas&amp;background=FFFDF9&amp;border=E7E0D5&amp;stroke=E7E0D5&amp;ring=B49B7E&amp;fire=8C7563&amp;currStreakNum=625B52&amp;sideNums=625B52&amp;currStreakLabel=8C7563&amp;sideLabels=8C7563&amp;dates=8E8273&amp;hide_border=false&amp;border_radius=6&amp;disable_animations=true" alt="Automatically generated GitHub contribution streak" width="495" />
   </a>
 </p>
+-->
 

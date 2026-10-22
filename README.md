@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F2EEE7&amp;height=175&amp;text=I%20s%20a%20b%20e%20l%20%E2%80%83%20A%20l%20o%20n%20s%20o&amp;fontColor=51483E&amp;fontFamily=Georgia&amp;fontSize=37&amp;fontAlignY=43&amp;desc=TELECOMMUNICATIONS%20%20-%20%20BUSINESS%20ANALYTICS&amp;descSize=12&amp;descAlignY=66" alt="Isabel Alonso — Telecommunications Engineering and Business Analytics" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=F2EEE7&amp;height=175&amp;text=I%20s%20a%20b%20e%20l%20%E2%80%83%20A%20l%20o%20n%20s%20o&amp;fontColor=51483E&amp;fontFamily=Georgia&amp;fontSize=37&amp;fontAlignY=43&amp;desc=TELECOMMUNICATION%20ENGINEERINGS%20%20-%20%20BUSINESS%20ANALYTICS&amp;descSize=12&amp;descAlignY=66" alt="Isabel Alonso — Telecommunications Engineering and Business Analytics" width="100%" />
 </p>
 
 <p align="center">
@@ -27,11 +27,19 @@
 <h2 align="center">Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-EDE6DC?style=for-the-badge&amp;logo=python&amp;logoColor=746756" alt="Python" />  <img src="https://img.shields.io/badge/Java-EDE6DC?style=for-the-badge" alt="Java" />  <img src="https://img.shields.io/badge/C-EDE6DC?style=for-the-badge&amp;logo=c&amp;logoColor=746756" alt="C" />  <img src="https://img.shields.io/badge/JavaScript-EDE6DC?style=for-the-badge&amp;logo=javascript&amp;logoColor=746756" alt="JavaScript" />  <img src="https://img.shields.io/badge/HTML-EDE6DC?style=for-the-badge&amp;logo=html5&amp;logoColor=746756" alt="HTML" />  <img src="https://img.shields.io/badge/CSS-EDE6DC?style=for-the-badge&amp;logo=css&amp;logoColor=746756" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-EDE6DC?style=for-the-badge&logo=python&logoColor=746756" alt="Python" />
+  <img src="https://img.shields.io/badge/R-EDE6DC?style=for-the-badge&logo=r&logoColor=746756" alt="R" />
+  <img src="https://img.shields.io/badge/Java-EDE6DC?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/C-EDE6DC?style=for-the-badge&logo=c&logoColor=746756" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-EDE6DC?style=for-the-badge&logo=javascript&logoColor=746756" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-EDE6DC?style=for-the-badge&logo=html5&logoColor=746756" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-EDE6DC?style=for-the-badge&logo=css&logoColor=746756" alt="CSS" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-F3EFE8?style=for-the-badge&amp;logo=pandas&amp;logoColor=746756" alt="pandas" />  <img src="https://img.shields.io/badge/scikit--learn-F3EFE8?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=746756" alt="scikit-learn" />  <img src="https://img.shields.io/badge/Jupyter-F3EFE8?style=for-the-badge&amp;logo=jupyter&amp;logoColor=746756" alt="Jupyter" />  <img src="https://img.shields.io/badge/Git-F3EFE8?style=for-the-badge&amp;logo=git&amp;logoColor=746756" alt="Git" />  <img src="https://img.shields.io/badge/GitHub-F3EFE8?style=for-the-badge&amp;logo=github&amp;logoColor=746756" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jupyter-F3EFE8?style=for-the-badge&logo=jupyter&logoColor=746756" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F3EFE8?style=for-the-badge&logo=git&logoColor=746756" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-F3EFE8?style=for-the-badge&logo=github&logoColor=746756" alt="GitHub" />
 </p>
 
 <br />
@@ -100,5 +108,3 @@
   </a>
 </p>
 
-<!-- Statistics are generated online from GitHub data by GitHub Readme Stats and GitHub Readme Streak Stats.
-     Their public services cache results and may occasionally be unavailable.
